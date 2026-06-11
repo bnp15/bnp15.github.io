@@ -449,4 +449,8 @@ footer.theme-bg-primary{
   .logo-item{
     padding: 0.75rem;
   }
+
+  iframe {
+    max-width: 100%;
+  }
 }
